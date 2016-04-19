@@ -1,0 +1,67 @@
+[{
+	"id": "5caaf25d-2801-49be-ac6b-162b0e8caeff",
+	"cat": ["Desktop"],
+	"name_s": "Jetway HBJC621C86-E35D-BW (ecx-New-US-N82E16856107141R) AMD Dual-Core Processor E-350 with AMD Radeon 6310",
+	"manufacturer_s": "Jetway",
+	"price_f": 108.74
+}, {
+	"id": "2b5429b4-966e-4620-a871-410201d6fe9a",
+	"cat": ["Desktop"],
+	"name_s": "HP (ecx-Sta-US-2120771) AMD A6-Series APU with AMD Radeon R4 Graphics HD 1TB RAM 4GB Windows 10 Home",
+	"manufacturer_s": "HP",
+	"price_f": 549.99
+}, {
+	"id": "4cfa8cc8-6540-45de-b3bc-00d9874f94e2",
+	"cat": ["Desktop"],
+	"name_s": "Cybertron TGM1293E (ecx-Wal-US-49151503) AMD A4-Series APU with AMD Radeon HD 7480D HD 32GB RAM 4GB Windows 10 Home",
+	"manufacturer_s": "Cybertron",
+	"price_f": 499.99
+}, {
+	"id": "d9fbc094-b464-4fb9-8b76-682eef86410e",
+	"cat": ["Desktop"],
+	"name_s": "Cybertron TGMRHDIMR736XBR (ecx-Wal-US-49824165) AMD FX 4-Core Black Edition FX-4300 HD 1TB RAM 16GB Windows 10 Home",
+	"manufacturer_s": "Cybertron",
+	"price_f": 569.99
+}, {
+	"id": "0f36f5ad-1b7b-416d-b5fc-6cd79917e025",
+	"cat": ["Laptop"],
+	"name_s": "Dell Inspiron 17-5755 (ecx-Off-US-955826) AMD A8-Series APU with AMD Radeon R5 Graphics 17.3inch 8GB RAM 1TB HD Windows 10 Home",
+	"manufacturer_s": "Dell",
+	"price_f": 579.99
+}, {
+	"id": "f7203ef1-6528-4401-a801-816f8a21c688",
+	"cat": ["Laptop"],
+	"name_s": "Dell Inspiron M731R (ecx-Sta-US-2122923) AMD A10-Series APU with AMD Radeon HD 8610G Graphics 17.3inch 8GB RAM 1TB HD Windows 8.1",
+	"manufacturer_s": "Dell",
+	"price_f": 399.99
+}, {
+	"id": "5afe0435-d260-49e0-8ec2-e05e63d1ba85",
+	"cat": ["Laptop"],
+	"name_s": "HP 15-g022ds (J5T36UA) AMD A8-Series APU with AMD Radeon R5 Graphics 15.6inch 8GB RAM 1TB HD Windows 8.1",
+	"manufacturer_s": "HP",
+	"price_f": 562.99
+}, {
+	"id": "faff85da-36dc-4904-adc6-82141e1df2e8",
+	"cat": ["Laptop"],
+	"name_s": "HP 15-g021ds (J5T35UA#ABA) AMD A8-Series APU with AMD Radeon R5 Graphics 15.6inch 8GB RAM 1TB HD Windows 8.1",
+	"manufacturer_s": "HP",
+	"price_f": 562.99
+}, {
+	"id": "faff85da-36dc-4904-adc6-82141e1df2e8",
+	"cat": ["Processor"],
+	"name_s": "AMD A10-Series APU A10-7890K with Radeon R7 Graphics and Wraith cooler (AD789KXDJCHBX)",
+	"manufacturer_s": "AMD",
+	"price_f": 149.99
+}, {
+	"id": "31a66be4-e823-476c-866b-f7a05030d294",
+	"cat": ["Processor"],
+	"name_s": "AMD Athlon X4 880K with Near Silent Thermal Solution (AD880KXBJCSBX)",
+	"manufacturer_s": "AMD",
+	"price_f": 89.99
+}, {
+	"id": "8fce065e-27d3-4265-95ba-6dc1593f3e7b",
+	"cat": ["Processor"],
+	"name_s": "AMD A10-Series APU A10-7870K with Radeon R7 Graphics and Near Silent Thermal Solution (AD787KXDJCSBX)",
+	"manufacturer_s": "AMD",
+	"price_f": 136.02
+}]
